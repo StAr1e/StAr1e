@@ -1,5 +1,4 @@
 <p><img src="https://github.com/StAr1e/StAr1e/blob/main/dot.gif" style="width: 100%; max-width: 100%; display: inline-block;" /></p>
-- 👋 Hi, I’m @StAr1e
 - 👀  Hello! I'm Sayad Akbar, a passionate developer with expertise in Flutter app development using Dart and Swift, as well as desktop app development using C# and .NET. I'm deeply immersed in Fullstack Web Development and committed to mastering every aspect of this dynamic field. My goal is to create seamless and innovative experiences across web, mobile, and desktop platforms.
 
 # 💻 My Skillset:
