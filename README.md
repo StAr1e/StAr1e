@@ -24,6 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
----> Hello! I'm Sayad Akbar, a passionate developer with expertise in Flutter app development using Dart and Swift, as well as desktop app development using C# and .NET. I'm deeply immersed in Fullstack Web Development and committed to mastering every aspect of this dynamic field. My goal is to create seamless and innovative experiences across web, mobile, and desktop platforms.
+
