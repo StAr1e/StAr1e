@@ -46,8 +46,3 @@ I am a results-driven developer specializing in high-performance cross-platform 
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0" />
-  </a>
-</p>
