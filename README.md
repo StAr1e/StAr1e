@@ -35,14 +35,13 @@ I am a results-driven developer specializing in high-performance cross-platform 
 ![AI/ML](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![On-Chain](https://img.shields.io/badge/On--Chain_Data-333333?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 
 ---
-
-### 📈 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&theme=dark&hide_border=false&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&theme=dark&hide_border=false&layout=compact" height="170" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=dark&hide_border=false" alt="StAr1e's GitHub Streak" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=StAr1e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
