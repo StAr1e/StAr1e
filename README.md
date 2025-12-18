@@ -37,14 +37,17 @@ I am a results-driven developer specializing in high-performance cross-platform 
 ---
 
 ### 📈 GitHub Insights
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=StAr1e&theme=dark&hide_border=false&show_icons=true" alt="StAr1e's GitHub Stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=dark&hide_border=false" alt="StAr1e's GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&theme=dark&hide_border=false&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&theme=dark&hide_border=false&layout=compact" height="170" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=dark&hide_border=false" />
+</div>
 
 ---
 
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0" />
+  </a>
+</p>
