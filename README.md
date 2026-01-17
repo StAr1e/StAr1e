@@ -3,9 +3,9 @@
 </p>
 
 # 👋 Hello, I'm Sayad Akbar
-**Full-Stack Software Engineer | Flutter & .NET Specialist | Blockchain & AI Architect**
+**Full-Stack Software Developer | Flutter & .NET Specialist | Blockchain & AI Architect**
 
-I am a results-driven developer specializing in high-performance cross-platform applications and decentralized solutions. My expertise spans from building robust **Flutter & Swift** mobile apps to architecting scalable **Web3 and AI-integrated** systems. Currently, I am focused on the **TON Ecosystem**, developing advanced **Telegram Mini Apps (TMA)** and automated bot infrastructures.
+I am a results driven developer specializing in high-performance cross-platform applications and decentralized solutions. My expertise spans from building robust **Flutter & Swift** mobile apps to architecting scalable **Web3 and AI-integrated** systems. Currently, I am focused on the **TON Ecosystem**, developing advanced **Telegram Mini Apps (TMA)** and automated bot infrastructures.
 
 ---
 
