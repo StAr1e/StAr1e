@@ -1,47 +1,70 @@
-<p align="center">
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0098EA&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sayad+Akbar;Full-Stack+Developer;TON+Ecosystem+Architect;AI+%26+Blockchain+Engineer" alt="Typing SVG" />
+
+  <p align="center">
+    <strong>Results-driven developer specializing in high-performance cross-platform applications and decentralized solutions.</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  </p>
+
   <img src="https://github.com/StAr1e/StAr1e/blob/main/dot.gif" width="100%" />
-</p>
-
-# 👋 Hello, I'm Sayad Akbar
-**Full-Stack Software Developer | Flutter & .NET & WebApp | Blockchain & AI Architect**
-
-I am a results driven developer specializing in high-performance cross-platform applications and decentralized solutions. My expertise spans from building robust **Flutter & Swift** mobile apps to architecting scalable **Web3 and AI-integrated** systems. Currently, I am focused on the android/ios app and **TON Ecosystem**, developing advanced **Telegram Mini Apps (TMA)** and automated bot infrastructures.
+</div>
 
 ---
 
-### 🚀 Core Expertise
-* **Multi-Platform Development:** Seamless experiences across Mobile (Flutter), Desktop (.NET/C#), and Web (React/Next.js).
-* **Decentralized Systems:** Expertise in TON Blockchain, on-chain data integration, and Web3 architectures.
-* **Intelligent Automation:** Integrating AI/ML models (Pandas/NumPy) into production workflows and building sophisticated Telegram Bot ecosystems.
-* **Scalable Infrastructure:** Designing high-concurrency backends using FastAPI, Flask, and Redis for real-time performance.
+### 🚀 About Me
+- 📱 **Mobile & Desktop:** Expert in **Flutter & .NET** for seamless cross-platform experiences.
+- 💎 **Web3 & TON:** Deeply focused on the **TON Ecosystem**, Telegram Mini Apps (TMA), and bot infrastructure.
+- 🤖 **AI Architect:** Integrating AI/ML models (**Pandas/NumPy**) into production-ready automated workflows.
+- ⚡ **Backend:** Designing high-concurrency systems using **FastAPI, Flask, and Redis**.
 
 ---
 
 ### 💻 Technical Skillset
 
-### 🛠️ Programming Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white) ![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🌐 Web & Backend Architecture
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 📱 Mobile & Desktop Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-%2302568A.svg?style=for-the-badge&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### 💎 Blockchain & Telegram Ecosystem
-![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![TON](https://img.shields.io/badge/TON_Blockchain-0098EA?style=for-the-badge&logo=ton&logoColor=white) ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.dot.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 📊 AI & Data Engineering
-![AI/ML](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![On-Chain](https://img.shields.io/badge/On--Chain_Data-333333?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts,js,python,dart,swift,cs,cpp" />
+      <br />Languages
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,flask,redis" />
+      <br />Web & Backend
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter,dotnet,electron,supabase" />
+      <br />Frameworks
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma" />
+      <br />Tools
+    </td>
+  </tr>
+</table>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StAr1e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 📊 GitHub Ecosystem
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=transparent&hide_border=true&title_color=0098EA&text_color=ffffff&icon_color=0098EA" height="170" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=transparent&hide_border=true&title_color=0098EA&text_color=ffffff&icon_color=0098EA" height="170" alt="languages card" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=transparent&hide_border=true&stroke=0098EA&ring=0098EA&fire=0098EA&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0" alt="Views" />
+</div>
