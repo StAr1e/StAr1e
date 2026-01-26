@@ -20,7 +20,7 @@
     </a>
   </p>
 
-  <img src="https://github.com/StAr1e/StAr1e/blob/main/dot.gif" width="100%" />
+  
 </div>
 
 ---
