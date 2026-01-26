@@ -3,18 +3,28 @@
 <img src="https://i.pinimg.com/originals/c8/5f/2e/c85f2eca6fae07ed09d1eb2984f99fa8.gif" width="100%" />
 
 # 🌌 Sayad Akbar here 🔥 !
-### Senior Full-Stack Engineer | Systems Architect | Web3 & AI Researcher
+###  Full-Stack Developer | Systems Architect | Web3 & AI Developer
 
 ---
 
 ## 💫 Professional Overview
 <img src="https://komarev.com/ghpvc/?username=StAr1e&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Views" />
 
-* 🚀 **Architecting scalable digital solutions** across Mobile, Desktop, and Distributed Cloud environments.
-* 🛠️ Expert-level proficiency in **Flutter & .NET Core**, delivering high-performance cross-platform experiences.
-* 🌐 Engineering the future with **Web3 (EVM & Solana)** and **Automated Intelligence (LLM Ops)**.
-* 📈 Focused on **Clean Architecture, TDD, and CI/CD pipelines** for enterprise-grade reliability.
-* 🎓 Deeply rooted in **Computer Science principles**, specializing in algorithm optimization and decentralized systems.
+
+
+- 🛠️ Building high-performance cross-platform apps with **Flutter & WebApp**  
+- 🌐 Exploring **Web3 (EVM, Solana & TON)** and **AI / LLM automation**  
+- 📈 Following **Clean Architecture, TDD & CI/CD** for reliable systems   
+
+---
+
+### 🔹 Core Expertise
+
+- **Multi-Platform Development:** Mobile (Flutter), Desktop (.NET/C#), Web (React/Next.js)  
+- **Decentralized Systems:** TON Blockchain, on-chain data integration, Web3 architectures  
+- **Intelligent Automation:** AI/ML (Pandas/NumPy) workflows & Telegram Bot ecosystems  
+- **Scalable Infrastructure:** High-concurrency backends with FastAPI, Flask, Redis
+
 
 **Connect with my workspace:**
 <p align="center">
@@ -80,8 +90,7 @@
 ---
 
 ## 🎭 Random Dev Quote
-> "The best way to predict the future is to invent it."  
-> — *Alan Kay*
+> "Code is poetry and interface is performance."  
 
 <img src="https://github.com/StAr1e/StAr1e/blob/main/dot.gif" width="100%" />
 
