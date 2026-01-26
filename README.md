@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0098EA&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sayad+Akbar;FullStack+Developer;TON+Ecosystem+Architect;AI+%26+Blockchain+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0098EA&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sayad+Akbar;Full+Stack+Developer;" alt="Typing SVG" />
 
   <p align="center">
     <strong>Focused on building high performance, cross platform applications and decentralized solutions..</strong>
