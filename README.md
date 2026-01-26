@@ -67,35 +67,18 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=transparent&hide_border=true&title_color=0098EA&text_color=ffffff&icon_color=0098EA"
+    src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=tokyonight"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=transparent&hide_border=true&title_color=0098EA&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=tokyonight"
     height="170"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=transparent&hide_border=true&stroke=0098EA&ring=0098EA&fire=0098EA&currStreakNum=ffffff&sideNums=ffffff"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=tokyonight"
   />
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/StAr1e/StAr1e/output/github-contribution-grid-snake.svg"
-
-    alt="GitHub Contribution Snake"
-  />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0" />
-</div>
