@@ -27,12 +27,12 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **Full-Stack Developer** crafting scalable, production-ready systems.
-- 📱 **Mobile & Desktop:** Flutter & .NET for seamless cross-platform growth.
-- 🌐 **Web & Backend:** React/Next.js, Node, FastAPI & Flask.
-- 🤖 **AI & Automation:** Python workflows with Pandas/NumPy.
-- 🔗 **Web3 & Telegram Bots:** Mini Apps and bot infrastructure.
-- ⚡ Strong focus on performance, reliability & automation.
+- 👨‍💻 **Full-Stack Developer** focused on production-ready systems
+- 📱 **Mobile & Desktop:** Flutter & .NET cross-platform solutions
+- 🌐 **Web:** React / Next.js with scalable backend architectures
+- 🤖 **AI & Automation:** Python, Pandas, NumPy workflows
+- 🔗 **Web3 & Bots:** Telegram Bots, Mini Apps (TMA), decentralized tools
+- ⚡ Performance-driven, automation-oriented mindset
 
 ---
 
@@ -79,6 +79,17 @@
 <div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=transparent&hide_border=true&stroke=0098EA&ring=0098EA&fire=0098EA&currStreakNum=ffffff&sideNums=ffffff"
+  />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </div>
 
