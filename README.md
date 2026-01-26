@@ -61,16 +61,3 @@ Performance-driven, automation-oriented mindset. Building futuristic application
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/StAr1e/StAr1e/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
----
-
-## 👀 Profile Views
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0" />
-</div>
