@@ -20,7 +20,7 @@
     </a>
   </p>
 
-  
+  <img src="https://github.com/StAr1e/StAr1e/blob/main/dot.gif" width="100%" />
 </div>
 
 ---
@@ -28,11 +28,11 @@
 ## 🚀 About Me
 
 - 👨‍💻 **Full-Stack Developer** crafting scalable, production-ready systems.
-- 📱 **Mobile & Desktop:** Flutter & .NET for seamless cross-platform experiences.
-- 🌐 **Web:** Modern frontend with React / Next.js and robust backends.
-- 🤖 **AI Engineer:** Automation & intelligent systems using Python, NumPy & Pandas.
-- 🔗 **Web3 & Bots:** Telegram bots, Mini Apps (TMA), and decentralized workflows.
-- ⚡ **Backend Architect:** High-concurrency APIs with FastAPI, Flask & Redis.
+- 📱 **Mobile & Desktop:** Flutter & .NET for seamless cross-platform growth.
+- 🌐 **Web & Backend:** React/Next.js, Node, FastAPI & Flask.
+- 🤖 **AI & Automation:** Python workflows with Pandas/NumPy.
+- 🔗 **Web3 & Telegram Bots:** Mini Apps and bot infrastructure.
+- ⚡ Strong focus on performance, reliability & automation.
 
 ---
 
@@ -63,27 +63,27 @@
 
 ---
 
-## 📊 GitHub Ecosystem
+## 📊 GitHub Stats
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SayadAkbar&show_icons=true&theme=transparent&hide_border=true&title_color=0098EA&text_color=ffffff&icon_color=0098EA"
+    src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=transparent&hide_border=true&title_color=0098EA&text_color=ffffff&icon_color=0098EA"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayadAkbar&layout=compact&theme=transparent&hide_border=true&title_color=0098EA&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=transparent&hide_border=true&title_color=0098EA&text_color=ffffff"
     height="170"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SayadAkbar&theme=transparent&hide_border=true&stroke=0098EA&ring=0098EA&fire=0098EA&currStreakNum=ffffff&sideNums=ffffff"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=transparent&hide_border=true&stroke=0098EA&ring=0098EA&fire=0098EA&currStreakNum=ffffff&sideNums=ffffff"
   />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SayadAkbar&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=StAr1e&icon=0&color=0" />
 </div>
