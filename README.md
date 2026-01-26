@@ -80,7 +80,7 @@
 ## ⚡ GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff" height="160" />
+  
 </div>
 
 <p align="center">
