@@ -88,8 +88,9 @@
 
 <div align="center">
   <img
-    https://raw.githubusercontent.com/StAr1e/StAr1e/output/github-contribution-grid-snake.svg
+    src="https://raw.githubusercontent.com/StAr1e/StAr1e/output/github-contribution-grid-snake.svg"
 
+    alt="GitHub Contribution Snake"
   />
 </div>
 
