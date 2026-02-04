@@ -3,17 +3,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 # 🌌 Sayad Akbar here 🔥 !
-###  Full-Stack Developer | Systems Architect | Web3 & AI Developer
+### Full-Stack Developer | Systems Architect | Web3 & AI Developer
 
 ---
 
 ## 💫 Professional Overview
 <img src="https://komarev.com/ghpvc/?username=StAr1e&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Views" />
 
-
-
-- 🛠️ Building high-performance cross-platform apps with **Flutter & WebApp**  
-- 🌐 Exploring **Web3 (EVM, Solana & TON)** and **AI / LLM automation**  
+- 🛠️ Building high-performance cross-platform apps with **Flutter & WebApp**
+- 🌐 Exploring **Web3 (EVM, Solana & TON)** and **AI / LLM automation**
 - 📈 Following **Clean Architecture, TDD & CI/CD** for reliable systems   
 
 ---
@@ -78,13 +76,15 @@
 ---
 
 ## ⚡ GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF" height="160" />
-  
-</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&text_color=ffffff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StAr1e&theme=radical&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffffff" height="160" />
 </p>
 
 ---
