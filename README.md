@@ -77,12 +77,12 @@
 ## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
