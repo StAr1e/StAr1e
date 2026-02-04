@@ -39,7 +39,6 @@
 
 ---
 
-## 🛠 Technical Specialization
 
 ## 🛠 Technical Specialization
 
