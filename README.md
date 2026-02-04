@@ -63,28 +63,17 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
-### 🤖 AI, Web3 & Data
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</p>
-
 ---
 
 ## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&text_color=ffffff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StAr1e&theme=radical&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffffff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
