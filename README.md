@@ -1,109 +1,54 @@
 <div align="center">
 
+<!-- 🌌 Animated Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
-# 🌌 Sayad Akbar here 🔥 !
-### Full-Stack Developer | Systems Architect | Web3 & AI Developer
+<br/>
+
+# 🌌 Sayad Akbar
 
 ---
 
-## 💫 Professional Overview
-<img src="https://komarev.com/ghpvc/?username=StAr1e&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Views" />
+## ⏱ Coding Activity (WakaTime)
 
-- 🛠️ Building high-performance cross-platform apps with **Flutter & WebApp**
-- 🌐 Exploring **Web3 (EVM, Solana & TON)** and **AI / LLM automation**
-- 📈 Following **Clean Architecture, TDD & CI/CD** for reliable systems   
-
----
-
-### 🔹 Core Expertise
-
-- **Multi-Platform Development:** Mobile (Flutter), Desktop (.NET/C#), Web (React/Next.js)  
-- **Decentralized Systems:** TON Blockchain, on-chain data integration, Web3 architectures  
-- **Intelligent Automation:** AI/ML (Pandas/NumPy) workflows & Telegram Bot ecosystems  
-- **Scalable Infrastructure:** High-concurrency backends with FastAPI, Flask, Redis
-
-**Connect with my workspace:**
 <p align="center">
-<a href="https://sayadakbar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:sayadshahab82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sayad-akbar-44182b26a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StAr1e&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 💻 Languages & Ecosystems
+## ⚡ GitHub Stats (Neon Glow)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cs,cpp,rust,go,solidity,java,php,swift,kotlin,ruby,lua,zig" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&title_color=00f5ff&icon_color=00f5ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true" />
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
 
-## 🛠 Technical Specialization
-
-### 📱 Frontend, Mobile & Deployment
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StAr1e&theme=matrix&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
-### ⚙️ Backend & Infrastructure
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-### 🚀 DevOps, Cloud & Tools
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/PythonAnywhere-1F2937?style=flat-square&logo=python&logoColor=ffe052" />
-</p>
-
-### 🤖 AI, Web3 & Data Science
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-</p>
 ---
 
-## ⚡ GitHub Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StAr1e&theme=react-dark&hide_border=true&area=true&radius=16" />
 </p>
 
 ---
 
 ## 🎭 Random Dev Quote
-> "Code is poetry and interface is performance."  
 
-<img src="https://github.com/StAr1e/StAr1e/blob/main/dot.gif" width="100%" />
+> "Code is poetry and interface is performance."
+
+---
+
+<!-- ✨ Neon Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:ff00ff&height=100&section=footer" />
 
 </div>
