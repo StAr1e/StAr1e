@@ -10,7 +10,7 @@
 
 ---
 
-### 📊 GitHub Ecosystem
+### 📊 GitHub Stats
 
 <p align="center">
   <!-- Fixed stable endpoint for stats card -->
@@ -32,7 +32,7 @@
 
 ---
 
-### 🎭 Random Dev Quote
+###  Random Dev Quote
 > *"Code is poetry and interface is performance."*
 
 <img src="https://github.com/StAr1e/StAr1e/blob/main/dot.gif" width="100%" />
