@@ -1,17 +1,21 @@
-
-
-<br/>
+<div align="center">
 
 # 🌌 Sayad Akbar
 
-
 ---
 
-## ⚡ GitHub Stats (Neon Glow)
+## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&title_color=00f5ff&icon_color=00f5ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -19,23 +23,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StAr1e&theme=matrix&no-frame=true&no-bg=true&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StAr1e&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contributions Graph
 
 <p align="center">
-  <img src="https://github.com/users/StAr1e/contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StAr1e&theme=react-dark&hide_border=true" />
 </p>
-
----
-
-## 🎭 Random Dev Quote
-
-> "Code is poetry and interface is performance."
-
----
 
 </div>
