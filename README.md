@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚡ Sayad Akbar
-**Full-Stack Developer | AI Engineer | Systems Architect**
+#  Sayad Akbar aka STAR1E
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sayadakbar.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayadshahab82@gmail.com)
@@ -27,10 +27,7 @@
 
 ---
 
-### 🛠 Tech Stack & Specializations
-**Mobile:** Flutter | Dart | Swift  
-**Web:** React | .NET | Node.js  
-**AI/Blockchain:** LLM Integration | TON Ecosystem | Telegram Mini Apps
+
 
 ---
 
