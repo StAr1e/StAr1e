@@ -13,9 +13,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Fixed stable endpoint for stats card -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
