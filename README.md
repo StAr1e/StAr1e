@@ -28,10 +28,18 @@
 
 ---
 
-## 📈 Contributions Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StAr1e&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 GitHub Contributions (Default Grid Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=StAr1e" />
 </p>
 
 </div>
