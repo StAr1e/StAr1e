@@ -1,6 +1,7 @@
 <div align="center">
 
-#  Sayad Akbar aka STAR1E
+#  Sayad Akbar aka StAr1e
+
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sayadakbar.netlify.app/)
