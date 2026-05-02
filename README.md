@@ -4,18 +4,15 @@
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StAr1e&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StAr1e&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
@@ -23,23 +20,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StAr1e&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StAr1e&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🎭 Random Dev Quote
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StAr1e&theme=react-dark&hide_border=true" />
-</p>
+> "Code is poetry and interface is performance."
 
----
-
-## 🐍 GitHub Contributions (Default Grid Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=StAr1e" />
-</p>
+<img src="https://github.com/StAr1e/StAr1e/blob/main/dot.gif" width="100%" />
 
 </div>
