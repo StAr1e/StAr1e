@@ -19,17 +19,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StAr1e&theme=radical&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
----
-
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StAr1e&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-
 
 ---
 
